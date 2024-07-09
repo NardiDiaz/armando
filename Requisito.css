@@ -1,0 +1,25 @@
+.im{
+    float: right;
+    padding-right: 8%;
+    padding-bottom:5%;
+    
+}
+h1{
+    font-family: "Birds of Paradise  Personal use";
+    color: black;
+}
+#offcanvasNavbar{
+    color: white;
+    background-color: #50CDE4;
+    font-family: "Times New Romas"
+}
+.navbar{
+    background-color: #50CDE4;
+    color: black;
+    
+}
+body{
+    
+  background: rgb(121,187,187);
+background: linear-gradient(0deg, rgba(121,187,187,1) 0%, rgba(239,245,250,1) 100%);
+}

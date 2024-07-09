@@ -1,0 +1,61 @@
+
+p{
+   text-align: justify; 
+}
+
+button a{
+    text-decoration: none;
+        }
+button{
+    padding-left: 100px;
+}
+.logo{
+     width:90px;
+    height:90px;
+}
+h1{
+    font-family: "Birds of Paradise  Personal use";
+    color: black;
+}
+#offcanvasNavbar{
+    color: white;
+    background-color: #50CDE4;
+    font-family: "Times New Romas"
+}
+.navbar{
+    background-color: #50CDE4;
+    color: black;
+    
+}
+ .card {
+     margin : 50px;
+        width: 300px;
+        float: left;
+     border: 1px solid;
+     background: rgb(217,236,240);
+background: radial-gradient(circle, rgba(217,236,240,1) 0%, rgba(166,182,241,1) 100%);
+     border-color: #a6b6f1;
+    }
+.card:hover{
+       box-shadow:  -20px 20px 150px black;
+    transform: translateY(-10%);
+    background-image: url(DonArmando.jpg);
+  
+  
+    background-position: left;
+    
+}
+.container{
+    float: right;
+    padding-left: 5%;
+}
+h2{
+    font-family:"Times New Romans";
+}
+body{
+    
+  background: rgb(121,187,187);
+background: linear-gradient(0deg, rgba(121,187,187,1) 0%, rgba(239,245,250,1) 100%);
+    background-size: cover;
+    background-attachment: fixed;
+}

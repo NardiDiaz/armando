@@ -1,0 +1,65 @@
+img{
+    width: 150px;
+}
+
+#img{
+    width: 200px;
+    height: 260px;
+}
+juh1{
+    font-family: "Times New Roman"
+}
+h3{
+    font-family: "Times New Romans"
+}
+.col-lg-4{
+    border: 1px solid;
+}
+.row{
+    padding: 5%;
+    padding-top: 0%;
+}
+h1 {
+    font-family: "Times New Romans"
+}
+h2 {
+    font-family: "Times New Romans"
+}
+.col-lg-4{
+    border: 2px solid #77b4a6 ;
+    border-radius: 10px;
+   padding: 0%;
+     background: rgb(113,177,162);
+background: radial-gradient(circle, rgba(113,177,162,1) 0%, rgba(208,231,228,1) 74%);
+
+    
+}
+
+.row{
+    padding: 15%;
+    padding-top: 0px;
+}
+.navbar{
+    background-color:#50CDE4;
+    font-family: "Times New Romas";
+    color: aliceblue;
+    
+}
+.logo{
+     width:90px;
+    height:90px;
+}
+h1{
+    font-family: "Birds of Paradise  Personal use";
+    color: black;
+}
+#offcanvasNavbar{
+    color: white;
+    background-color: #50CDE4;
+    font-family: "Times New Romas"
+}
+.navbar{
+    background-color: #50CDE4;
+    color: black;
+    
+}
